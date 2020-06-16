@@ -70,6 +70,7 @@ public class SkillsController {
                 "<li>" + firstLanguage + "</li>" +
                 "<li>" + secondLanguage + "</li>" +
                 "<li>" + thirdLanguage + "</li>" +
+                "</ol>" +
                 "</body>" +
                 "</html>";
     }
